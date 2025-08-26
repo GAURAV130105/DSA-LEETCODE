@@ -38,7 +38,7 @@ public class DiagonalTraverse {
         int n = sc.nextInt();
 
         int[][] matrix = new int[m][n];
-        
+    
         System.out.println("Enter matrix elements row by row:");
 
         for (int i = 0; i < m; i++) {
