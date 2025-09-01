@@ -1,8 +1,11 @@
-<<<<<<< HEAD
+
 # DSA-LEETCODE
 Solving DSA problems on LEETCODE 
 =======
 # DAILY LEETCODE QUESTIONS
 
 1. STARTING WITH 50 DAILY QUESTION 
->>>>>>> leetcode
+leetcode
+
+
+AUTHOR --GAURAV SINGH 
